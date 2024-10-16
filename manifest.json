@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "My Extension",
+    "name": "PagespeedLab DOM",
     "version": "1.0",
-    "description": "Description of my extension",
+    "description": "Permet d'analyser la taille du DOM d'une page web",
     "permissions": [
         "scripting",
         "activeTab"
@@ -17,4 +17,5 @@
             "128": "icons/icon128.png"
         }
     }
+    
 }
