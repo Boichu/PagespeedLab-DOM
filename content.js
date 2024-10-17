@@ -10,7 +10,7 @@ infoBox.style.pointerEvents = 'none';
 infoBox.style.zIndex = '9999';
 infoBox.style.display = 'none';
 document.body.appendChild(infoBox);
-alert('DANS TON CUL');
+
 
 let previousElement = null; // Stocke l'élément précédemment survolé
 let currentElement = null; // Stocke l'élément actuellement survolé
